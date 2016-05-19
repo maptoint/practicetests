@@ -1,9 +1,7 @@
 package types.primitive;
 
-public class Java003 {
+    /*
 
-	/*
-    
     What is the result?
 
     A. 0
@@ -18,15 +16,17 @@ public class Java003 {
 
     */
 
+public class Java003 {
+
     public static void main(String args[]) {
-        int x = 0, y = 10;
-        try {
-            y /= x;
-        }
-        System.out.print("/ by 0");
-        catch(Exception e){
-            System.out.print("error");
-        }
+//        int x = 0, y = 10;
+//        try {
+//            y /= x;
+//        }
+//        System.out.print("/ by 0");
+//        catch(Exception e){
+//            System.out.print("error");
+//        }
     }
 
 }

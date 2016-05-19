@@ -1,10 +1,5 @@
 package types.primitive;
 
-/**
- * @author serialversionuid
- */
-public class Java001 {
-
     /*
 
     What will be the result of the following code execution?
@@ -18,6 +13,8 @@ public class Java001 {
     Result: true
 
      */
+
+public class Java001 {
 
     public static void main(String[] args) {
         String s1 = "str";

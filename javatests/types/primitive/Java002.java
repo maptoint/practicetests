@@ -1,27 +1,24 @@
 package types.primitive;
 
-/**
- * @author maptoint
- */
-public class Java002 {
-
     /*
 
     What is the result?
-	
-	A. 123456
-	
-	B. An exception could be thrown at runtime.
 
-	C. 654321
-	
-	D. nothing
+    A. 123456
 
-	E. 65432
+    B. An exception could be thrown at runtime.
 
-	F. 12345
+    C. 654321
+
+    D. nothing
+
+    E. 65432
+
+    F. 12345
 
      */
+
+public class Java002 {
 
     public static void main(String[] args) {
         int a[] = {1, 2, 3, 4, 5, 6};
