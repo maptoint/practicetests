@@ -22,21 +22,17 @@ E. Compilation fails.
  */
 
 class Person {
-
     static int pid;
     int age;
     String name;
-
     Person(String s, int i) {
         ++pid;
         name = s;
         age = i;
     }
-
 }
 
 class Test {
-
     public static void main(String args[]) {
         Person p1 = new Person("John", 22);
         Test te = new Test();
@@ -50,7 +46,6 @@ class Test {
         p2.age = 25;
         return p2;
     }
-
 }
 
 

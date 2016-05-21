@@ -17,7 +17,6 @@ E. 5
 */
 
 public class Java015 {
-
     public static void main(String[] args) {
         String s = "Java";
         s.concat(" SE 6");
@@ -25,5 +24,4 @@ public class Java015 {
         System.out.print(s);
         //how many?
     }
-
 }

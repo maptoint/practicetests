@@ -17,10 +17,8 @@ E. Length of this array is 3.
 */
 
 public class Java005 {
-
     public static void main(String[] args) {
         int a[] = {1, 2, 3, 4};
         System.out.print(a instanceof Object);
     }
-
 }

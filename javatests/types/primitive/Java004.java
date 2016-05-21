@@ -15,7 +15,6 @@ Compilation error
  */
 
 public class Java004 {
-
     public static void main(String[] args) {
 //        byte a = 1;
 //        byte b = ++a;
@@ -24,5 +23,4 @@ public class Java004 {
 //        System.out.print(b);
 //        System.out.print(c);
     }
-
 }

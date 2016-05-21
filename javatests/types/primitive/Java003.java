@@ -17,7 +17,6 @@ E. No output
 */
 
 public class Java003 {
-
     public static void main(String args[]) {
 //        int x = 0, y = 10;
 //        try {
@@ -28,5 +27,4 @@ public class Java003 {
 //            System.out.print("error");
 //        }
     }
-
 }
