@@ -1,18 +1,18 @@
 package types.primitive;
 
-    /*
+/*
 
-    What will be the result of the following code execution?
+What will be the result of the following code execution?
 
-    false
+false
 
-    true
+true
 
-    Result: false
+Result: false
 
-    Result: true
+Result: true
 
-     */
+ */
 
 public class Java001 {
 

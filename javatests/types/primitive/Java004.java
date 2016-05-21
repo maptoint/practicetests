@@ -1,18 +1,18 @@
 package types.primitive;
 
-    /*
+/*
 
-    What will be the result of the following code execution?
+What will be the result of the following code execution?
 
-    Compilation error
+Compilation error
 
-    11-1
+11-1
 
-    22-2
+22-2
 
-    12-2
+12-2
 
-     */
+ */
 
 public class Java004 {
 

@@ -1,20 +1,20 @@
 package types.primitive;
 
-    /*
+/*
 
-    What is the result?
+What is the result?
 
-    A. Java SE 6
+A. Java SE 6
 
-    B. Java SE 7
+B. Java SE 7
 
-    C. Java SE
+C. Java SE
 
-    D. Java
+D. Java
 
-    E. Compilation fails.
+E. Compilation fails.
 
-    */
+*/
 
 public class Java014 {
 

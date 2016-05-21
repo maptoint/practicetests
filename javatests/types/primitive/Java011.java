@@ -1,20 +1,20 @@
 package types.primitive;
 
-    /*
+/*
 
-    What is the result?
+What is the result?
 
-    A. 4
+A. 4
 
-    B. 5
+B. 5
 
-    C. Compilation fails.
+C. Compilation fails.
 
-    D. 10
+D. 10
 
-    E. A runtime exception will be thrown.
+E. A runtime exception will be thrown.
 
-     */
+ */
 
 public class Java011 {
 

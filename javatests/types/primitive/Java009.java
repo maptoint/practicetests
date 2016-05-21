@@ -1,20 +1,21 @@
 package types.primitive;
 
-    /*
+/*
 
-    What is the result?
+What is the result?
 
-    A. 10
+A. 10
 
-    B. Compilation fails.
+B. Compilation fails.
 
-    C. 18
+C. 18
 
-    D. Output is unpredicatable.
+D. Output is unpredicatable.
 
-    E. 8
+E. 8
 
-    */
+*/
+
 public class Java009 {
 
     int a = 10;

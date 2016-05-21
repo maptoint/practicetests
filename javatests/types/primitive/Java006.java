@@ -1,20 +1,20 @@
 package types.primitive;
 
-    /*
+/*
 
-    Which is the result?
+Which is the result?
 
-    A. true false
+A. true false
 
-    B. false false
+B. false false
 
-    C. false true
+C. false true
 
-    D. true true
+D. true true
 
-    E. Compilation fails
+E. Compilation fails
 
-    */
+*/
 
 public class Java006 {
 

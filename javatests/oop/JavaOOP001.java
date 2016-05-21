@@ -1,26 +1,26 @@
 package oop;
 
-    /*
+/*
 
-    What will be printed out as a result of the following code execution / compilation?
+What will be printed out as a result of the following code execution / compilation?
 
-    BCDA
+BCDA
 
-    CDBA
+CDBA
 
-    ABDC
+ABDC
 
-    BCAD
+BCAD
 
-    ABCD
+ABCD
 
-    BACD
+BACD
 
-    CBAD
+CBAD
 
-    CDBA
+CDBA
 
-     */
+ */
 
 class D extends C {
     private A objA = new A();

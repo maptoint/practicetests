@@ -1,20 +1,20 @@
 package types.primitive;
 
-    /*
+/*
 
-    What is the result?
+What is the result?
 
-    A. 0
+A. 0
 
-    B. error
+B. error
 
-    C. Compilation fails
+C. Compilation fails
 
-    D. An uncaught exception is thrown at runtime.
+D. An uncaught exception is thrown at runtime.
 
-    E. No output
+E. No output
 
-    */
+*/
 
 public class Java003 {
 

@@ -1,22 +1,22 @@
 package types.primitive;
 
-    /*
+/*
 
-    Which is the output?
+Which is the output?
 
-    A. Compilation fails due to line 3.
+A. Compilation fails due to line 3.
 
-    B. Compilation fails due to line 4.
+B. Compilation fails due to line 4.
 
-    C. An exception will be thrown in runtime.
+C. An exception will be thrown in runtime.
 
-    D. 2
+D. 2
 
-    E. 3
+E. 3
 
-    F. 5
+F. 5
 
-    */
+*/
 
 public class Java007 {
 

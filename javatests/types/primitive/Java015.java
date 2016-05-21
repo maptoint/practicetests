@@ -1,20 +1,20 @@
 package types.primitive;
 
-    /*
+/*
 
-    How many String objects have been created when the code reaches line 7?
+How many String objects have been created when the code reaches line 7?
 
-    A. 1
+A. 1
 
-    B. 2
+B. 2
 
-    C. 3
+C. 3
 
-    D. 4
+D. 4
 
-    E. 5
+E. 5
 
-    */
+*/
 
 public class Java015 {
 

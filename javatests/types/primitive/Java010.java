@@ -1,20 +1,21 @@
 package types.primitive;
 
-    /*
+/*
 
-    What is the result?
+What is the result?
 
-    A. 2
+A. 2
 
-    B. Compilation fails due to an error on line 8.
+B. Compilation fails due to an error on line 8.
 
-    C. Compilation fails due to an error on line 7.
+C. Compilation fails due to an error on line 7.
 
-    D. 0
+D. 0
 
-    E. Compilation fails due to an error on line 12.
+E. Compilation fails due to an error on line 12.
 
-     */
+ */
+
 public class Java010 {
 //    public static void main(String[] args) {
 //        new Java010().pass();

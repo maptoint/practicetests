@@ -1,20 +1,20 @@
 package types.primitive;
 
-    /*
+/*
 
-    What is the result?
+What is the result?
 
-    A. Will produce output as false.
+A. Will produce output as false.
 
-    B. Compilation fails due to error at line 3.
+B. Compilation fails due to error at line 3.
 
-    C. Will produce output as true.
+C. Will produce output as true.
 
-    D. Compilation fails due to error at line 4.
+D. Compilation fails due to error at line 4.
 
-    E. Length of this array is 3.
+E. Length of this array is 3.
 
-    */
+*/
 
 public class Java005 {
 

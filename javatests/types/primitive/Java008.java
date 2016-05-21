@@ -1,20 +1,20 @@
 package types.primitive;
 
-    /*
+/*
 
-    Choose the three legal identifiers.
+Choose the three legal identifiers.
 
-    A. 1stName
+A. 1stName
 
-    B. _4_
+B. _4_
 
-    C. @name
+C. @name
 
-    D. $
+D. $
 
-    E. getSize
+E. getSize
 
-    */
+*/
 
 public class Java008 {
 }

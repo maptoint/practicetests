@@ -1,22 +1,22 @@
 package types.primitive;
 
-    /*
+/*
 
-    What is the result?
+What is the result?
 
-    A. 123456
+A. 123456
 
-    B. An exception could be thrown at runtime.
+B. An exception could be thrown at runtime.
 
-    C. 654321
+C. 654321
 
-    D. nothing
+D. nothing
 
-    E. 65432
+E. 65432
 
-    F. 12345
+F. 12345
 
-     */
+ */
 
 public class Java002 {
 

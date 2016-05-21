@@ -1,26 +1,25 @@
 package types.primitive;
 
-    /*
+/*
 
-    IMPORTANT: Ответ А. Классы нам особо не мешают, сам файл называется так же.
+IMPORTANT: Ответ А. Классы нам особо не мешают, сам файл называется так же.
 
-    What is the result?
+What is the result?
 
+A. 1 John 25
+   1 John 25
 
-    A. 1 John 25
-       1 John 25
+B. 1 John 25
+   1 John 22
 
-    B. 1 John 25
-       1 John 22
+C. 1 John 22
+   1 John 22
 
-    C. 1 John 22
-       1 John 22
+D. ClassCastException is thrown at runtime.
 
-    D. ClassCastException is thrown at runtime.
+E. Compilation fails.
 
-    E. Compilation fails.
-
-     */
+ */
 
 class Person {
 
