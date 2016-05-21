@@ -18,3 +18,5 @@ F. Runtime exceptions are required to be caught or declared.
 
 */
 
+public class JavaOCA009{}
+

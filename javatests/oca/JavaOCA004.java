@@ -17,6 +17,7 @@ E. 13
 F. The code will not compile because of line 7.
 
  */
+public class JavaOCA004{}
 
 class FeedingSchedule {
     public static void main(String[] args) {

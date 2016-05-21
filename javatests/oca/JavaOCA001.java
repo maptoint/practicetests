@@ -19,6 +19,7 @@ F. 0null
 G. nullnull
 
 */
+public class JavaOCA001{}
 /*
 
 class _C {

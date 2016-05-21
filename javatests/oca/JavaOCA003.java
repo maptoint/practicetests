@@ -19,6 +19,7 @@ F. The code will not compile because of line 11.
 G. The output cannot be determined form the code provided.
 
 */
+public class JavaOCA003{}
 /*
 
 interface HasTail {

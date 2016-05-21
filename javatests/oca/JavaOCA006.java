@@ -17,6 +17,7 @@ E. Compiler error on line 8.
 F. Non of th above.
 
 */
+public class JavaOCA006{}
 
 class MathFunctions {
     public static void addToInt(int x, int amountToAdd) {

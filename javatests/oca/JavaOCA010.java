@@ -35,3 +35,5 @@ class Grasshopper {
     }
     private String name;
 }
+
+public class JavaOCA010{}
