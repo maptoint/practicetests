@@ -1,6 +1,6 @@
-package javatests.types.primitive;
+package types.primitive;
 
-/*
+    /*
 
     How many String objects have been created when the code reaches line 7?
 
@@ -14,8 +14,10 @@ package javatests.types.primitive;
 
     E. 5
 
- */
+    */
+
 public class Java015 {
+
     public static void main(String[] args) {
         String s = "Java";
         s.concat(" SE 6");
@@ -23,4 +25,5 @@ public class Java015 {
         System.out.print(s);
         //how many?
     }
+
 }

@@ -1,6 +1,7 @@
-package javatests.types.primitive;
+package types.primitive;
 
-/*
+    /*
+
     What is the result?
 
     A. 10
@@ -13,8 +14,9 @@ package javatests.types.primitive;
 
     E. 8
 
-*/
+    */
 public class Java009 {
+
     int a = 10;
 
     public static void main(String[] args) {
@@ -25,4 +27,5 @@ public class Java009 {
         int a = 8;
         System.out.print(a + " ");
     }
+
 }

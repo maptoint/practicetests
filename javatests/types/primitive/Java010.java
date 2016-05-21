@@ -1,6 +1,6 @@
-package javatests.types.primitive;
+package types.primitive;
 
-/*
+    /*
 
     What is the result?
 
@@ -14,7 +14,7 @@ package javatests.types.primitive;
 
     E. Compilation fails due to an error on line 12.
 
- */
+     */
 public class Java010 {
 //    public static void main(String[] args) {
 //        new Java010().pass();

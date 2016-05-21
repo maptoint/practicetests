@@ -1,27 +1,30 @@
-package javatests.types.primitive;
+package types.primitive;
 
-/*
+    /*
 
- Which is the result?
+    Which is the result?
 
- A. true false
+    A. true false
 
- B. false false
+    B. false false
 
- C. false true
+    C. false true
 
- D. true true
+    D. true true
 
- E. Compilation fails
+    E. Compilation fails
 
- */
+    */
+
 public class Java006 {
+
     public static void main(String[] args) {
         int a[] = {1, 2, 053, 4};
         int b[][] = {{1, 2, 4}, {2, 2, 1}, {0, 43, 2}};
         System.out.print(a[3] == b[0][2]);
         System.out.print(" " + (a[2] == b[2][1]));
     }
+
 }
 
 

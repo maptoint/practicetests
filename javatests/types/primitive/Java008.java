@@ -1,6 +1,7 @@
-package javatests.types.primitive;
+package types.primitive;
 
-/*
+    /*
+
     Choose the three legal identifiers.
 
     A. 1stName
@@ -13,6 +14,7 @@ package javatests.types.primitive;
 
     E. getSize
 
-*/
+    */
+
 public class Java008 {
 }

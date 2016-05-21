@@ -1,6 +1,6 @@
-package javatests.types.primitive;
+package types.primitive;
 
-/*
+    /*
 
     What is the result?
 
@@ -14,8 +14,10 @@ package javatests.types.primitive;
 
     E. A runtime exception will be thrown.
 
- */
+     */
+
 public class Java011 {
+
     static int x = 10;
 
     public static void main(String[] args) {
@@ -23,4 +25,5 @@ public class Java011 {
         }
         System.out.print(x);
     }
+
 }
