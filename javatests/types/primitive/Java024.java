@@ -1,7 +1,19 @@
 package javatests.types.primitive;
 
-/**
- * Created by maptoint on 6/1/16.
+/*
+
+        Which is a reserved word in the Java programming language?
+
+        A. 	method
+
+        B. 	native
+
+        C. 	subclasses
+
+        D. 	reference
+
+        E. 	array
+
  */
 public class Java024 {
 }

@@ -1,7 +1,19 @@
 package javatests.types.primitive;
 
-/**
- * Created by maptoint on 6/1/16.
+/*
+
+        Which one is a valid declaration of a boolean?
+
+        A. 	boolean b1 = 0;
+
+        B. 	boolean b2 = 'false';
+
+        C. 	boolean b3 = false;
+
+        D. 	boolean b4 = Boolean.false();
+
+        E. 	boolean b5 = no;
+
  */
 public class Java032 {
 }
