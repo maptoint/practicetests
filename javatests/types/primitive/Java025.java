@@ -1,17 +1,7 @@
 package javatests.types.primitive;
 
-/*
-
-        Which is a valid keyword in java?
-
-        A. 	interface
-
-        B. 	string
-
-        C. 	Float
-
-        D. 	unsigned
-
+/**
+ * Created by maptoint on 6/1/16.
  */
 public class Java025 {
 }

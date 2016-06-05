@@ -1,17 +1,7 @@
 package javatests.types.primitive;
 
-/*
-
-        Which is a valid declarations of a String?
-
-        A. 	String s1 = null;
-
-        B. 	String s2 = 'null';
-
-        C. 	String s3 = (String) 'abc';
-
-        D. 	String s4 = (String) '\ufeed';
-
+/**
+ * Created by maptoint on 6/1/16.
  */
 public class Java030 {
 }
