@@ -1,4 +1,4 @@
-package javatests.types.primitive;
+package types.primitive;
 
 /*
 

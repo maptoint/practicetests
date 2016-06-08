@@ -18,21 +18,23 @@ package javatests.types.primitive;
 
 
  */
-class Java020 {
-//    public String type = "f ";
-//    public Java020() {
-//        System.out.print("feline ");
-//    }
-//}
-//public class Cougar extends Java020 {
-//    public Cougar() {
-//        System.out.print("cougar ");
-//    }
-//    public static void main(String[] args) {
-//        new Cougar().go();
-//    }
-//    void go() {
-//        type = "c ";
-//        System.out.print(this.type + super.type);
-//    }
+class Java20 {}
+
+class Feline {
+    public String type = "f ";
+    public Feline() {
+        System.out.print("feline ");
+    }
+}
+class Cougar extends Feline {
+    public Cougar() {
+        System.out.print("cougar ");
+    }
+    public static void main(String[] args) {
+        new Cougar().go();
+    }
+    void go() {
+        type = "c ";
+        System.out.print(this.type + super.type);
+    }
 }
