@@ -1,7 +1,20 @@
 package types.primitive;
 
-/**
- * Created by maptoint on 6/17/16.
+/*
+        Given a method in a protected class,
+        what access modifier do you use to restrict access to that method
+        to only the other members of the same class?
+
+        A. final
+
+        B. static
+
+        C. private
+
+        D. protected
+
+        E. volatile
+
  */
 public class Java041 {
 }

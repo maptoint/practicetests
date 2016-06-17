@@ -1,7 +1,17 @@
 package types.primitive;
 
-/**
- * Created by maptoint on 6/17/16.
+/*
+        You want a class to have access to members of another class in the same package.
+        Which is the most restrictive access that accomplishes this objective?
+
+        A. public
+
+        B. private
+
+        C. protected
+
+        D. default access
+
  */
 public class Java042 {
 }

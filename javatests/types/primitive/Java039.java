@@ -1,7 +1,10 @@
 package types.primitive;
 
-/**
- * Created by maptoint on 6/11/16.
+/*
+     Which of the following are correct?
+
+     A. 128
+
  */
 public class Java039 {
 }
